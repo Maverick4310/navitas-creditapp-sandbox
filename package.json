@@ -1,0 +1,13 @@
+{
+  "name": "navitas-creditapp-sandbox",
+  "version": "1.0.0",
+  "description": "Proxy service for forwarding partner credit application requests to Navitas Salesforce.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "axios": "^1.7.0"
+  }
+}
